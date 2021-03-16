@@ -28,7 +28,7 @@ resources :
 
     name : chyen1Acr/shared-azure-pipeline-templates
 
-    branch : master
+    branch : azure-pipeplines2
 
  
 
