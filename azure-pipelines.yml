@@ -26,7 +26,7 @@ resources :
 
     endpoint : Chao Project 3
 
-    name : chyen1/shared-azure-pipeline-templates
+    name : chyen1Acr/shared-azure-pipeline-templates
 
     branch : master
 
